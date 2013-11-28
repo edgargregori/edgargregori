@@ -1,0 +1,17 @@
+{
+	"name": "usuarios/datos",
+	"description": "Crear datos de usuarios",
+	"keywords": "["usuario", "sembrar", "dato"]",
+	"homepage": "http://edgar_gregori.net/php",
+	"time":	"2013-09-11",
+	"license": "MIT",
+	"authors": [	
+		{
+		"name": "Edgar Gregori",
+		"email": "edgar_gregori@yahoo.com",
+		"homepage": "http://edgar_gregori.net",
+		"role": "mmmm"
+		}
+		]
+
+}
